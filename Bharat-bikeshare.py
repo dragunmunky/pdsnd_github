@@ -24,7 +24,7 @@ while True:
  city = input('Which city would you like to see data for:  Chicago, New York, or Washington?\n').lower()
  if city in ('chicago', 'new york city', 'washington'):
   return city
- else: print("Sorry, '{city.title()}' is not a valid city name.  Please type 'chicago', 'new york city' or 'washington'.')    
+ else: print("SORRY, '{city.title()}' is NOT a valid city name.  Please type 'chicago', 'new york city' or 'washington'.')    
 
     # TO DO: get user input for month (all, january, february, ... , june)
 months = {'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'}

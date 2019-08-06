@@ -13,3 +13,6 @@ Bikeshare.py
 ### Credits
 Forked from https://github.com/udacity/pdsnd_github
 
+### Also Part of
+SQL and Command Line Essentials
+
