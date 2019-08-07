@@ -1,21 +1,14 @@
 ### Date created
-Created Project August 6, 2019.
+Project created August 6, 2019.
 
 ### Project Title
-Python Github
+Bikeshare Datashare
 
 ### Description
-This Shares A Python File on Bikeshare Data
+The Bikeshare project utilizes bikesharing data in different cities across the US
 
 ### Files used
-Bikeshare.py
+Bharat-bikeshare.py
 
 ### Credits
-Forked from https://github.com/udacity/pdsnd_github
-
-### Also Part of
-SQL and Command Line Essentials
-
-### Mangos for Biking
-Eat lots of mangos to ride bikes
-
+This project was forked over from https://github.com/udacity/pdsnd_github
